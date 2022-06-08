@@ -1,6 +1,7 @@
 Hello, and welcome to my Introductory!
 - My name is Marek Carlisle.
 - I am interested in cats, code, and games. 
+- I study programming, computer science, cybersecurity, and a little of other sciences.
 - You can contact me via email at any time: marekcarlisle@protonmail.com
 - I keep a diverse Discord community, join us for some fun: https://discord.gg/cwGXgxynQr
 
