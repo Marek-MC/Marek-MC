@@ -1,15 +1,13 @@
 Hello, and welcome to my Introductory!
 
-- My name is Marek Carlisle.
-- I am interested in cats, space, computers, and games. 
-- I study programming, computer science, cybersecurity, and a little other sciences.
-- You can contact me via email at any time: marekcarlisle@protonmail.com
+- My name is: Marek Carlisle
+- I am interested in: Cats, space, computers, and games 
+- I study: programming, computer science, and cybersecurity
+- Contact me via: marekcarlisle@protonmail.com
 
-I love playing videogames, and doing things with computers and other technologies. I study computer science for fun, and solving computer problems is a skill that I value within myself, as I love having technological freedom. I dream of one day putting these naturally developed tech skills to use in creating cash flow, and taking my craft around the globe. And perhaps making games as side projects too.
+I am into various tech-based activities; Including, but not limited too: Gaming (PC and consoles), collecting/archiving data (Music, movies, etc.), building and fixing computers, and occasionally programming in different languages.
 
-I want to become a freelancer, but I'm looking for professional work to help me get there.
-
-Companies I want to work for: Microsoft, Google, Apple, Riot Games, Mojang...
+Technologies I have experience with: Javascript (and HTML, CSS), Python, Windows, MacOS, and a few Linux distributions. 
 
 
 <!---
